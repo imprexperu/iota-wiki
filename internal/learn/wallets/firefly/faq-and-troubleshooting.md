@@ -1,6 +1,7 @@
 ---
 title: Firefly FAQ
-description: Frequently asked questions and helpful troubleshooting information for users of the Firefly wallet.
+description: Frequently asked questions and helpful troubleshooting information
+  for users of the Firefly wallet.
 ---
 
 [Official website](https://firefly.iota.org/) | [User guide](/learn/wallets/firefly/user-guide) | [Ledger user guide](/learn/wallets/firefly/user-guide-ledger) | [Github](https://github.com/iotaledger/firefly)
@@ -371,4 +372,4 @@ Firefly will conduct bundle mining in rare cases because of your spent address(e
 
 Once the security check completes, you can choose to rerun the process (which may lower your risk level) or continue the migration process once you feel satisfied.
 
-However, in some cases, it is difficult to improve the bundle's security. You may rerun the process as many times as you like, but some spent addresses are very difficult to lower the risk. You can keep trying or migrate anyway and accept the risk involved.
+However, in some cases, it is difficult to improve the bundle's security. You may rerun the process as many times as you like, but some spent addresses are very difficult to lower the risk. You can keep trying or migrate anyway and accept the risk involved.d
